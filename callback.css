@@ -1,0 +1,16 @@
+.bg{
+    background-image: linear-gradient(#FF9933,#FFFFFF,#138808);
+    position: relative;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+}
+#root{
+    font-family: Verdana;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
